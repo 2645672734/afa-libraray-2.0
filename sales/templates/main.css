@@ -1,0 +1,66 @@
+.beijing
+{ 
+    text-align: center;
+    background-image: url('img/法拉古特徽章.jpg');
+    height: 1200px;
+    width: 1200px;
+    background-position: center;
+    margin: auto;
+    background-size:100% 100%; 
+    filter: opacity(50%); 
+}
+.sousuolan
+{ 
+    height:40px;
+    display: inline-block;
+
+}
+.user-input 
+{
+    width: 400px;
+    height: 40px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    text-indent: 10px;
+}
+        
+.user-btn 
+{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background: blue;
+    vertical-align: middle;
+    outline: none;
+    color: white;
+    font-size: 20px;
+}
+
+.biaoti
+{
+    height:80px;
+    font-size:50px;
+    padding: 20px;
+}
+
+.shudepaixu
+{
+    height: 800px;
+    width: 500px; 
+    background: rgba(190, 192, 191, 0.7);
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    overflow: auto;
+    padding: 30px;
+}
+
+.shudepaixu a {
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    line-height:50px;
+}
